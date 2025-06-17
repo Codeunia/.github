@@ -13,7 +13,7 @@ Welcome to **Codeunia**, a vibrant student-led tech community on a mission to br
 - 🔧 **Open Source Contributions**
 - 🧠 **Knowledge Sharing & Mentorship**
 - 🎤 **Community Events & Hackathons**  
-  → Like our flagship event: [**RealityCode**](https://codeunia.vercel.app)
+  → Like our flagship event: [**RealityCode**](https://www.instagram.com/p/DK4r18YhnUN/)
 
 ---
 
@@ -44,9 +44,6 @@ Whether you’re a coder, builder, designer, or just curious — there’s a pla
 
 ## 📌 Featured Projects
 
-- 🔒 **OTID-FAN** – One-Time Digital Identity & Fraud Alert System  
-- 📊 **Women Safety Analytics Dashboard**  
-- 📚 **AI-powered News Summarizer**  
 - ⚡ **RealityCode Hackathon Platform** *(ongoing)*
 
 ---
