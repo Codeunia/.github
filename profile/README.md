@@ -38,7 +38,7 @@ Whether you’re a coder, builder, designer, or just curious — there’s a pla
 
 🌐 Website: [codeunia.vercel.app](https://codeunia.vercel.app)  
 📷 Instagram: [@codeunia](https://instagram.com/codeunia)  
-📩 Contact: teamcodeunia@gmail.com
+📩 Contact: codeunia@gmail.com
 
 ---
 
