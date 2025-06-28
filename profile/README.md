@@ -1,54 +1,76 @@
-# 🚀 Codeunia
+<h1 align="center">🌐 Codeunia</h1>
+<h3 align="center">Empowering Students. Engineering Reality.</h3>
 
-**Empowering Students. Engineering Reality.**  
-*Verified | Student-led | Impact-driven*
-
-Welcome to **Codeunia** — a vibrant student-led tech community on a mission to bridge the gap between theory and real-world innovation. We build, innovate, and collaborate through impactful projects, flagship hackathons, and inclusive mentorship programs.
-
----
-
-## 🌟 What We Do
-
-- 💡 **Hardware + Software Projects**  
-  Hands-on work that fuses electronics and code.
-- 🤖 **AI, ML, and IoT Explorations**  
-  Curiosity-fueled experiments in emerging tech.
-- 🛠️ **Open Source Contributions**  
-  Building in the open. Learn by doing.
-- 📚 **Knowledge Sharing & Mentorship**  
-  Blogs, sessions, peer learning & more.
-- 🧩 **Community Events & Hackathons**  
-  Like our flagship event: [`RealityCode`](#)
+<p align="center">
+  <img src="https://img.shields.io/github/orgs/codeunia.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%94%A5-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Students%20First-%F0%9F%91%BC-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 👥 Who We Are
+### 🚀 About Us
 
-We're a collective of developers, designers, thinkers, and doers from across India. United by passion, we strive to:
-
-> “Empower the next generation of tech creators through real-world execution.”
+**Codeunia** is a student-led tech community on a mission to **bridge the gap between learning and real-world application**.  
+From building projects to hosting events, we cultivate a vibrant ecosystem that fosters innovation, collaboration, and growth among students.
 
 ---
 
-## 🛠️ Tech Stack Highlights
+### 🛠️ What We Do
+
+- 💡 **Tech Projects** – Real-world software & hardware development
+- 🤖 **AI, ML & IoT** – Hands-on explorations in emerging technologies
+- 📚 **Knowledge Sharing** – Blogs, sessions, mentorship, peer-to-peer learning
+- ⚙️ **Open Source** – Contribute, learn Git, and collaborate in public
+- 🎤 **Events & Hackathons** – Like our flagship: [RealityCode](#)
+
+---
+
+### 👥 Who We Are
+
+We’re a network of **students, developers, and creators from across India**, driven by curiosity and collaboration.
+
+> “Empowering the next generation through code, community, and creation.”
+
+---
+
+### 🧠 Tech Stack Highlights
 
 We love building with:
-- ⚙️ TypeScript • JavaScript • Python
-- 💻 React • Next.js • Tailwind CSS
-- ☁️ Firebase • Supabase • Sanity • Vercel
-- 📦 GitHub Actions • Docker (coming soon)
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,nodejs,tailwind,firebase,supabase,python,mongodb,vercel" />
 
 ---
 
-## 📣 Get Involved
+### 📢 Get Involved
 
-✨ Whether you’re a student, mentor, or community — there’s a place for you at Codeunia.
+We’re always open to:
+- 🤝 **Partnerships**
+- 🧑‍💻 **Contributors**
+- 🎙️ **Guest Speakers**
+- 🧑‍🏫 **Mentors & Coaches**
 
-- 🔗 [Website](https://www.codeunia.com)
-- 📩 Email: connect@codeunia.com
-- 💬 Instagram: [@codeunia](https://instagram.com/codeunia)
-- 🧠 Collaborate With Us: Open for community partnerships!
+> 💬 Want to collaborate? Email us at: `connect@codeunia.com`  
+> 🔗 Visit: [www.codeunia.com](https://www.codeunia.com)  
+> 📸 Instagram: [@codeunia](https://instagram.com/codeunia)
 
 ---
 
-> ⭐ Star us to support the movement and stay updated!
+### ⭐ Featured Repositories
+
+| Repo | Description |
+|------|-------------|
+| [`codeunia-website`](https://github.com/codeunia/codeunia-website) | 🌐 Official community website |
+| [`realitycode-event`](https://github.com/codeunia/realitycode-event) | 🧠 Smart Hackathon event assets |
+| [`projects-showcase`](https://github.com/codeunia/projects-showcase) | 🚀 Open contributions from our community |
+
+---
+
+### 🌍 Join the Movement
+
+We’re building more than projects — we’re building a community.
+
+> 📩 Let’s connect, create, and make an impact.  
+> 💡 **Codeunia** — Where students become creators.
+
+---
