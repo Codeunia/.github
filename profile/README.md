@@ -2,9 +2,15 @@
 <h3 align="center">Empowering Students. Engineering Reality.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Codeunia-181717?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%94%A5-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Students%20First-%F0%9F%91%BC-blue?style=for-the-badge" />
+  <a href="https://github.com/codeunia">
+    <img src="https://img.shields.io/badge/GitHub-Codeunia-181717?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/codeunia">
+    <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%94%A5-green?style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/codeunia">
+    <img src="https://img.shields.io/badge/Students%20First-%F0%9F%91%BC-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
