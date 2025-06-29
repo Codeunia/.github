@@ -1,5 +1,3 @@
-<h1 align="center">🌐 Codeunia</h1>
-<h3 align="center">Empowering Students. Engineering Reality.</h3>
 
 <h1 align="center">🌐 Codeunia</h1>
 <h3 align="center">Empowering Students. Engineering Reality.</h3>
