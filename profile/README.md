@@ -14,16 +14,17 @@
   <a href="mailto:connect@codeunia.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.gg/YOUR_INVITE">
+<!--   <a href="https://discord.gg/YOUR_INVITE">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/company/codeunia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@codeunia">
+<!--   <a href="https://youtube.com/@codeunia">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  </a> -->
 </p>
+
 ---
 
 ### 🚀 About Us
