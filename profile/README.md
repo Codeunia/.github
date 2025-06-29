@@ -3,16 +3,27 @@
 
 <p align="center">
   <a href="https://github.com/codeunia">
-    <img src="https://img.shields.io/badge/GitHub-Codeunia-181717?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-Codeunia-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/codeunia">
-    <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%94%A5-green?style=for-the-badge" />
+  <a href="https://www.codeunia.com">
+    <img src="https://img.shields.io/badge/Website-codeunia.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/codeunia">
-    <img src="https://img.shields.io/badge/Students%20First-%F0%9F%91%BC-blue?style=for-the-badge" />
+  <a href="https://instagram.com/codeunia">
+    <img src="https://img.shields.io/badge/Instagram-@codeunia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:connect@codeunia.com">
+    <img src="https://img.shields.io/badge/Email-connect@codeunia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/YOUR_INVITE">
+    <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/company/codeunia">
+    <img src="https://img.shields.io/badge/LinkedIn-Codeunia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@codeunia">
+    <img src="https://img.shields.io/badge/YouTube-@codeunia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ### 🚀 About Us
