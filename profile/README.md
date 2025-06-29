@@ -23,8 +23,9 @@
   </a>
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=780&lines=Initializing+Codeunia+Terminal...;Connecting+Students+Nationwide...;Empowering+Through+Tech+and+Teamwork...;Building+Together+%7C+Growing+Together...;Welcome+to+Codeunia+💻" alt="Terminal Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&background=000000&width=800&lines=Initializing+Community+...;Connecting+Students+Nationwide.;Empowering+Through+Code%2C+Events%2C+and+Collaboration.;We+Build+Together.+We+Grow+Together.;Welcome+to+Codeunia+%F0%9F%92%BB" alt="Terminal Effect" />
 </p>
 
 ---
