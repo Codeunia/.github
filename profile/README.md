@@ -2,6 +2,11 @@
   <img src="https://skillicons.dev/icons?i=c" height="28" style="vertical-align:middle; margin-right: 8px;" />
   <span style="font-size: 32px;">Codeunia</span>
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&background=000000&width=800&lines=Initializing+Community+...;Connecting+Students+Nationwide.;Empowering+Through+Code%2C+Events%2C+and+Collaboration.;We+Build+Together.+We+Grow+Together.;Welcome+to+Codeunia+%F0%9F%92%BB" alt="Terminal Effect" />
+</p>
+
+
 <h3 align="center">Empowering Students. Engineering Reality.</h3>
 
 <p align="center">
@@ -26,29 +31,34 @@
 
 ### 💡 About Us
 
-**Codeunia** is a student-led tech community committed to bridging the gap between academic learning and real-world application.  
-We focus on practical innovation through impactful projects, events, and open collaboration.
+**Codeunia** is a vibrant, student-led tech community dedicated to bridging the gap between academic learning and real-world impact.  
+We champion practical innovation through meaningful projects, events, and open collaboration.
 
 ---
 
 ### 🚀 What We Do
 
-- Tech Projects – Software and hardware development initiatives  
-- AI, ML & IoT – Practical exposure to emerging technologies  
-- Knowledge Sharing – Sessions, blogs, mentorship, and peer learning  
-- Open Source – Real collaboration with Git and public repositories  
-- Events & Hackathons – Including our flagship:  
+- **Tech Projects** – Software and hardware innovation initiatives  
+- **AI, ML & IoT** – Hands-on experience with emerging technologies  
+- **Knowledge Sharing** – Workshops, blogs, mentorship, and peer learning  
+- **Open Source** – Collaborative development using Git and public repositories  
+- **Events & Hackathons** – Including our flagship:  
   👉 [RealityCode on Unstop](https://unstop.com/hackathons/realitycode-by-codeunia-codeunia-1488383)
 
 ---
 
 ### 🌐 Our Community
 
-We are a network of developers, designers, and thinkers across India, united by a shared goal — to turn ideas into action through technology and teamwork.
+We are a diverse network of developers, designers, and thinkers from across India—united by a shared goal: turning ideas into reality through technology and teamwork.
 
 > “Empowering the next generation through code, community, and creation.”
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&pause=1200&color=36BCF7&width=600&center=true&vCenter=true&lines=Deepak+Pandey+-+Founder;Parisha+-+Co-Founder;Ayush+-+Strategy+Lead;Akshay+-+Website+Lead;Anurag+-+Technical+Lead" alt="Team Animation" />
+</p>
+
 
 ---
+
 <table align="center">
   <tr>
     <td><img src="https://skillicons.dev/icons?i=c" height="45"/></td>
@@ -105,22 +115,24 @@ We are a network of developers, designers, and thinkers across India, united by 
 
 ### 🤝 Get Involved
 
-We welcome collaborators from every background. Whether you're a student, educator, or tech professional, there's a place for you at Codeunia.
+We welcome collaborators from all backgrounds! Whether you're a student, educator, or tech professional—there’s a place for you at Codeunia:
 
-- Partnerships & Sponsorships  
-- Contributors & Developers  
-- Speakers & Coaches  
-- Student Mentors  
+- 🔗 [Partnerships & Sponsorships](https://www.codeunia.com/join/sponsorship)  
+- 🔗 [Contributors & Developers](https://www.codeunia.com/join/collaboration)  
+- 🔗 [Speakers & Coaches](https://www.codeunia.com/join/judges)  
+- 🔗 [Student Mentors](https://www.codeunia.com/join/mentor)  
+- 🔗 [Volunteers](https://www.codeunia.com/join/volunteer)  
+- 🔗 [General Join Page](https://www.codeunia.com/join)
 
-> 📧 connect@codeunia.com  
-> 🌐 [www.codeunia.com](https://www.codeunia.com)  
-> 📸 [@codeunia](https://instagram.com/codeunia)
+> 📧 Reach us at: `connect@codeunia.com`  
+> 🌐 Website: [www.codeunia.com](https://www.codeunia.com)  
+> 📷 Instagram: [@codeunia](https://instagram.com/codeunia)
 
 ---
 
 ### ✨ Join the Movement
 
-We're more than just a GitHub org.  
-We're a platform where students grow into creators, leaders, and innovators.
+We're more than just a GitHub organization.  
+We're a platform where students become creators, leaders, and innovators.
 
-> Let’s connect, create, and build something meaningful together.
+> Let’s connect, create, and build something meaningful together!
