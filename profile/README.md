@@ -22,7 +22,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=848deepak&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&background=000000&width=800&lines=Initializing+Community+...;Connecting+Students+Nationwide.;Empowering+Through+Code%2C+Events%2C+and+Collaboration.;We+Build+Together.+We+Grow+Together.;Welcome+to+Codeunia+%F0%9F%92%BB" alt="Terminal Effect" />
