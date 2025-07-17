@@ -35,8 +35,8 @@
 **Codeunia** is a vibrant, student-led tech community dedicated to bridging the gap between academic learning and real-world impact.  
 We champion practical innovation through meaningful projects, events, and open collaboration.
 
----
 
+---
 ### 🚀 What We Do
 
 - **Tech Projects** – Software and hardware innovation initiatives  
@@ -46,7 +46,22 @@ We champion practical innovation through meaningful projects, events, and open c
 - **Events & Hackathons** – Including our flagship:  
   👉 [RealityCode on Unstop](https://unstop.com/hackathons/realitycode-by-codeunia-codeunia-1488383)
 
----
+  ---
+<div align="center" style="border: 1px solid #444; border-radius: 10px; padding: 20px; background-color: #1e1e1e; color: #ccc; max-width: 600px; margin: auto;">
+
+With your support, we can empower even more students to **build, learn, and grow** through real-world development experiences.  
+Every contribution directly strengthens the future of open-source and tech education.
+
+<br/>
+
+<a href="https://github.com/sponsors/Codeunia">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=githubsponsors&style=for-the-badge" alt="Sponsor Codeunia" />
+</a>
+
+</div>
+
+
+----
 
 ### 🌐 Our Community
 
